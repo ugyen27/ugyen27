@@ -1,3 +1,6 @@
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
 
 <p align="center"><img src="https://miro.medium.com/max/628/1*j-MrlEz8urYRXXOSp4bhQA.png"alt="khushboogoel01" /></p>
 <!-- <img align="left" alt="Coding" width="200" src="https://miro.medium.com/max/628/1*j-MrlEz8urYRXXOSp4bhQA.png"/> -->
