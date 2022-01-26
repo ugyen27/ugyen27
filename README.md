@@ -13,11 +13,12 @@
 
 - 🔭 I’m currently working on **Ecommerce-site**
 
-- 📝 I regularly write articles on [ugyenexpo.blogspot.com](ugyenexpo.blogspot.com)
+- 📝 I regularly write articles on [ugyenexposure.com](ugyenexpo.blogspot.com)
 
 - 📫 How to reach me **12190038.gcit@rub.edu.bt**
 
-- ⚡ Fun fact **Beside coding, I also read books and play guitar 🎸 and sing songs **
+- ⚡ Fun fact **Beside coding, I also read books a
+ play guitar 🎸 and  sing songs **
 
 
 
