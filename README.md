@@ -19,8 +19,8 @@
 
 - 📫 How to reach me **12190038.gcit@rub.edu.bt**
 
-- ⚡ Fun fact **Beside coding, I also read books a
- play guitar 🎸 and  sing songs **
+- ⚡ Fun fact **Beside coding, I also read books,
+ play guitar 🎸 and love to sing songs **
 
 
 
