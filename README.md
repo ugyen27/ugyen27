@@ -1,13 +1,15 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
+<h1 align="center">Hi 👋,</h1>
+<hr>
+<p align="center"><img  alt="Coding" width="500" src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif"/></p>
+<hr>
+<p align="center"><img src="https://scontent.fpbh1-1.fna.fbcdn.net/v/t39.30808-6/272802807_1071439543636251_8130506968425608310_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=JKF1EV_30ywAX8WpBIY&_nc_ht=scontent.fpbh1-1.fna&oh=00_AT_X0E8Y1lo68gcUQNBgjpuTQiwKyqShXeGx1e4VAZ6aRA&oe=61F88DDA"alt="khushboogoel01" /></p>
+<hr>
 
-<p align="center"><img src="https://miro.medium.com/max/628/1*j-MrlEz8urYRXXOSp4bhQA.png"alt="khushboogoel01" /></p>
-<!-- <img align="left" alt="Coding" width="200" src="https://miro.medium.com/max/628/1*j-MrlEz8urYRXXOSp4bhQA.png"/> -->
 
 
-<h1 align="center">Hi 👋, I'm ugyen wangchuk</h1>
-<h3 align="center">A passionate computer science student from Bhutan</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ugyen27" alt="ugyen27" /></a> </p>
 
