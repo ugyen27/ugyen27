@@ -5,7 +5,7 @@
 <hr>
 <p align="center"><img  alt="Coding" width="500" src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif"/></p>
 <hr>
-<p align="center"><img src="https://scontent.fpbh1-1.fna.fbcdn.net/v/t39.30808-6/272802807_1071439543636251_8130506968425608310_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=JKF1EV_30ywAX8WpBIY&_nc_ht=scontent.fpbh1-1.fna&oh=00_AT_X0E8Y1lo68gcUQNBgjpuTQiwKyqShXeGx1e4VAZ6aRA&oe=61F88DDA"alt="khushboogoel01" /></p>
+<!-- <p align="center"><img src="https://scontent.fpbh1-1.fna.fbcdn.net/v/t39.30808-6/272802807_1071439543636251_8130506968425608310_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=JKF1EV_30ywAX8WpBIY&_nc_ht=scontent.fpbh1-1.fna&oh=00_AT_X0E8Y1lo68gcUQNBgjpuTQiwKyqShXeGx1e4VAZ6aRA&oe=61F88DDA"alt="khushboogoel01" /></p> -->
 <hr>
 
 
