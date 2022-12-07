@@ -13,9 +13,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ugyen27" alt="ugyen27" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce-site**
+- 🔭 I’m currently working on **IoT project**
 
-- 📝 I regularly write articles on [ugyenexposure.com](ugyenexpo.blogspot.com)
+- 
 
 - 📫 How to reach me **12190038.gcit@rub.edu.bt**
 
