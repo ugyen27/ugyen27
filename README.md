@@ -13,10 +13,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ugyen27" alt="ugyen27" /></a> </p>
 
-- 🔭 I’m currently working on **IoT project**
-
-- 
-
 - 📫 How to reach me **ucaywangchuk@gmail.com**
 
 - ⚡ Fun fact **Beside coding, I also read books,
