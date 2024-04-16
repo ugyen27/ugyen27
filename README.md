@@ -17,7 +17,7 @@
 
 - 
 
-- 📫 How to reach me **12190038.gcit@rub.edu.bt**
+- 📫 How to reach me **ucaywangchuk@gmail.com**
 
 - ⚡ Fun fact **Beside coding, I also read books,
  play guitar 🎸 and love to sing songs **
